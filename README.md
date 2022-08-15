@@ -1,5 +1,5 @@
 # LEAP Longitudinal Achievement Analysis 
-In Orleans Parish, is there a relationship between a school's percentage of economically disadvantaged students and its Louisiana Assessment of Educational Progress (LEAP) Mastery+ rate? For this project, I aggregated data from longtudinal data from three different LEAP adminsistration years - 2019, 2021, and 2022. 
+In Orleans Parish, is there a relationship between a school's percentage of economically disadvantaged students and its Louisiana Assessment of Educational Progress (LEAP) Mastery+ rate? For this project, I aggregated descriptive, longitudinal data from three different LEAP adminsistration years - 2019, 2021, and 2022. 
 
 As LEAP is only administered to students in 3rd through 8th grade, the conclusions below are drawn from examining from this subset of students. 
 
