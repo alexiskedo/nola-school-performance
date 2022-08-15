@@ -14,7 +14,7 @@ The visualizations are also an interactive dashboard, which can be accessed with
 
 
 # Conclusions 
-![dashboard] (https://github.com/alexiskedo/nola-school-performance/blob/main/dashboard-screenshot.png)
+![dashboard](https://github.com/alexiskedo/nola-school-performance/blob/main/dashboard-screenshot.png)
 
 **What, if any, trends or insights exist in the data related to the key question?**
 Immediately evident is the strong inverse correlation between the level of economic disadvantage existent in a particular school and that school's LEAP achievement level. The p-value indicates a strong relationship between the two variables (0.0001).
